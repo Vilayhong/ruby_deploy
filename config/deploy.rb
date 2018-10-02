@@ -8,7 +8,7 @@ set :repo_url, "git@github.com:Vilayhong/ruby_deploy.git"
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-set :deploy_to, "/home/ruby_deploy"
+set :deploy_to, "/home/ubuntu/ruby_deploy"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
